@@ -174,12 +174,12 @@ a:hover{
     margin-top: 20px;
     margin-bottom: 4px;
 }
-.fab{
+.footer-icons a{
     margin-right: 14px;
     background-color: lightgrey;
-    border-radius: 50px;
+    border-radius: 20px;
     color: #969BAB;
-    padding: 7.47px;
+    padding: 10px;
     font-size: 17px;
 }
 .footer-copyright p{
